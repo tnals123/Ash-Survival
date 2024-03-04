@@ -1,0 +1,16 @@
+{
+  "name": "ash-survival",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "dependencies": {
+    "phaser": "^3.80.1"
+  },
+  "scripts": {
+    "start": "webpack serve --open"
+  },
+  "devDependencies": {
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.0.2"
+  }
+}
